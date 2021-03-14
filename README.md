@@ -1,5 +1,5 @@
-Ejercise practicing z-index on a "image gallery"
+Ejercise practicing z-index on a "image gallery" - 1DAW
 
 Technologies used: HTML5 and CSS3
 
-In => 
+In => https://juandemarr.github.io/Ej-z-index/
